@@ -39,7 +39,7 @@
 
 ### Alfred
 
-这个神器对于每个 mac 使用者都是必备的, 完全可以替代 Spotlight. 并且可以自定义或下载其他人的 [WorkFlow](http://www.packal.org/workflow-search), 我的设置是通过 cmd + space 唤起 alfred.
+必备神器, 完全可以替代 Spotlight. 并且可以自定义或下载其他人的 [WorkFlow](http://www.packal.org/workflow-search), 我的设置是通过 cmd + space 唤起 alfred.
 
 我的 workflow:
 
@@ -62,7 +62,7 @@
 
 [Homebrew](https://brew.sh/)是Mac下的包管理工具, 可以方便的搭建某个开发环境或者安装工具
 
-#### 安装
+#### 安装 brew
 
 打开终端运行以下命令
 
@@ -80,7 +80,7 @@ brew cask是brew的扩展,可以安装appstroe的软件
 
 #### 命令别名
 
-设置命令别名, 简化一些常用的命令, 主要是 git 的别名
+设置命令别名, 简化一些常用的命令, 主要是 git 的别名(不记得从哪复制来的了...)
 
 ```bash
 -='cd -'
@@ -267,7 +267,7 @@ Java 开发环境自然用的 Jetbrain 家的 Intellij IDEA, 数据库终端用�
 
 一般来说到插件中心按下载量都看一眼, 能找到挺多好用的插件.
 
-## 软件
+## 软件(待完善描述)
 
 * 欧陆词典 用来查单词和记生词
 * Notion 做笔记,TODO list 等
