@@ -8,6 +8,35 @@
 2. 偶然从某些网站或者博客发现了一些好的工具或设置
 3. 偶尔会刻意的去寻找和更新自己的工具集, 例如试用插件中心排名靠前的插件
 
+- [my-mac-setting](#my-mac-setting)
+  - [语言设置](#%e8%af%ad%e8%a8%80%e8%ae%be%e7%bd%ae)
+  - [输入设置](#%e8%be%93%e5%85%a5%e8%ae%be%e7%bd%ae)
+    - [输入法切换](#%e8%be%93%e5%85%a5%e6%b3%95%e5%88%87%e6%8d%a2)
+  - [浏览器及插件](#%e6%b5%8f%e8%a7%88%e5%99%a8%e5%8f%8a%e6%8f%92%e4%bb%b6)
+    - [我的常用的 Chrome 插件](#%e6%88%91%e7%9a%84%e5%b8%b8%e7%94%a8%e7%9a%84-chrome-%e6%8f%92%e4%bb%b6)
+  - [效率工具](#%e6%95%88%e7%8e%87%e5%b7%a5%e5%85%b7)
+    - [Alfred](#alfred)
+  - [开发相关](#%e5%bc%80%e5%8f%91%e7%9b%b8%e5%85%b3)
+    - [vscode](#vscode)
+    - [Homebrew](#homebrew)
+      - [安装 brew](#%e5%ae%89%e8%a3%85-brew)
+      - [安装 brew cask](#%e5%ae%89%e8%a3%85-brew-cask)
+    - [Iterm2](#iterm2)
+      - [safe-rm](#safe-rm)
+      - [alias 命令别名](#alias-%e5%91%bd%e4%bb%a4%e5%88%ab%e5%90%8d)
+    - [IDEA](#idea)
+  - [软件](#%e8%bd%af%e4%bb%b6)
+    - [欧陆词典](#%e6%ac%a7%e9%99%86%e8%af%8d%e5%85%b8)
+    - [Notion](#notion)
+    - [Charlet](#charlet)
+    - [OminiGraffle](#ominigraffle)
+    - [Foxmail](#foxmail)
+    - [Xmind](#xmind)
+    - [Showdowsocks/V2Ray](#showdowsocksv2ray)
+    - [Time Out](#time-out)
+    - [Karabiner Elements](#karabiner-elements)
+    - [Xnip](#xnip)
+
 ## 语言设置
 
 语言刻意设置的英文, 并不是装逼或者英语好, 抱着能多认识几个单词是几个的心态而已
