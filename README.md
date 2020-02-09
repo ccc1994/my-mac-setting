@@ -3,33 +3,33 @@
 工欲善其事必先利其器, 这个项目主要是为了记录和分享自己的 mac 设置和工具集. 我时不时的也会改进自己的工具集和习惯, 所以这里的内容也会发生变化.
 
 - [my-mac-setting](#my-mac-setting)
-  - [语言设置](#%e8%af%ad%e8%a8%80%e8%ae%be%e7%bd%ae)
-  - [输入设置](#%e8%be%93%e5%85%a5%e8%ae%be%e7%bd%ae)
-    - [输入法切换](#%e8%be%93%e5%85%a5%e6%b3%95%e5%88%87%e6%8d%a2)
-  - [浏览器及插件](#%e6%b5%8f%e8%a7%88%e5%99%a8%e5%8f%8a%e6%8f%92%e4%bb%b6)
-    - [我的常用的 Chrome 插件](#%e6%88%91%e7%9a%84%e5%b8%b8%e7%94%a8%e7%9a%84-chrome-%e6%8f%92%e4%bb%b6)
-  - [效率工具](#%e6%95%88%e7%8e%87%e5%b7%a5%e5%85%b7)
-    - [Alfred](#alfred)
-  - [开发相关](#%e5%bc%80%e5%8f%91%e7%9b%b8%e5%85%b3)
-    - [vscode](#vscode)
-    - [Homebrew](#homebrew)
-      - [安装 brew](#%e5%ae%89%e8%a3%85-brew)
-      - [安装 brew cask](#%e5%ae%89%e8%a3%85-brew-cask)
-    - [Iterm2](#iterm2)
-      - [safe-rm](#safe-rm)
-      - [alias 命令别名](#alias-%e5%91%bd%e4%bb%a4%e5%88%ab%e5%90%8d)
-    - [IDEA](#idea)
-  - [软件](#%e8%bd%af%e4%bb%b6)
-    - [欧陆词典](#%e6%ac%a7%e9%99%86%e8%af%8d%e5%85%b8)
-    - [Notion](#notion)
-    - [Charles](#charles)
-    - [OminiGraffle](#ominigraffle)
-    - [Foxmail](#foxmail)
-    - [Xmind](#xmind)
-    - [Showdowsocks/V2Ray](#showdowsocksv2ray)
-    - [Time Out](#time-out)
-    - [Karabiner Elements](#karabiner-elements)
-    - [Xnip](#xnip)
+    - [语言设置](#%e8%af%ad%e8%a8%80%e8%ae%be%e7%bd%ae)
+    - [输入设置](#%e8%be%93%e5%85%a5%e8%ae%be%e7%bd%ae)
+        - [输入法切换](#%e8%be%93%e5%85%a5%e6%b3%95%e5%88%87%e6%8d%a2)
+    - [浏览器及插件](#%e6%b5%8f%e8%a7%88%e5%99%a8%e5%8f%8a%e6%8f%92%e4%bb%b6)
+        - [我的常用的 Chrome 插件](#%e6%88%91%e7%9a%84%e5%b8%b8%e7%94%a8%e7%9a%84-chrome-%e6%8f%92%e4%bb%b6)
+    - [效率工具](#%e6%95%88%e7%8e%87%e5%b7%a5%e5%85%b7)
+        - [Alfred](#alfred)
+    - [开发相关](#%e5%bc%80%e5%8f%91%e7%9b%b8%e5%85%b3)
+        - [vscode](#vscode)
+        - [Homebrew](#homebrew)
+        - [安装 brew](#%e5%ae%89%e8%a3%85-brew)
+        - [安装 brew cask](#%e5%ae%89%e8%a3%85-brew-cask)
+        - [Iterm2](#iterm2)
+        - [safe-rm](#safe-rm)
+        - [alias 命令别名](#alias-%e5%91%bd%e4%bb%a4%e5%88%ab%e5%90%8d)
+        - [IDEA](#idea)
+    - [软件](#%e8%bd%af%e4%bb%b6)
+        - [欧陆词典](#%e6%ac%a7%e9%99%86%e8%af%8d%e5%85%b8)
+        - [Notion](#notion)
+        - [Charles](#charles)
+        - [OminiGraffle](#ominigraffle)
+        - [Foxmail](#foxmail)
+        - [Xmind](#xmind)
+        - [Showdowsocks/V2Ray](#showdowsocksv2ray)
+        - [Time Out](#time-out)
+        - [Karabiner Elements](#karabiner-elements)
+        - [Xnip](#xnip)
 
 ## 语言设置
 
@@ -41,10 +41,10 @@
 
 1. 搜狗对一些新词或热点词会有更新(貌似 mac 自带没有)
 2. 搜狗对于开发者来说会有很多友好的设置
-   * 中文下使用英文标点, 这个在写代码的时候比较关键, 防止写代码的时候用的中文的标点导致一些问题, 所以我一直是用的英文标点
-   * 中文与英文/数字间键入空格, 这个设置勾上, 格式会更规范些
-   * 浏览器地址内默认使用英文
-   * 自动在某些 app 切换到英文, 比如 iterm, IDEA 之类的开发软件
+     - 中文下使用英文标点, 这个在写代码的时候比较关键, 防止写代码的时候用的中文的标点导致一些问题, 所以我一直是用的英文标点
+     - 中文与英文/数字间键入空格, 这个设置勾上, 格式会更规范些
+     - 浏览器地址内默认使用英文
+     - 自动在某些 app 切换到英文, 比如 iterm, IDEA 之类的开发软件
 
 ### 输入法切换
 
@@ -65,23 +65,26 @@
 
 ### 我的常用的 Chrome 插件
 
-* [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) 用来管理插件, 可以快速开启或关闭某个插件
-* [彩云小译](https://fanyi.caiyunapp.com/#/) 目前用过的最好用的翻译插件, 相比 Google 翻译更快, 准确度个人感觉也更高, 并且有中英文对照, 在翻译的不好时可以看原文. 缺点是有时候中英文对照会挤在一起, 影响阅读.
-* [Switchy Omega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 切换浏览器的代理, 科学上网必备
-* [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk) 因为我记笔记用的 Notion 所以会有这个网页复制的插件, 不过没有印象笔记的插件好用
-* [SourceGraph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack) 用来浏览 Github 上的项目, 类似的插件有很多, 我倒没对比过
-* [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) 在网页上使用 vim, 可以方便的切换 tab, 上下翻页, 用键盘点击任何一个可点击的元素等. 我常用的:
+- [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) 用来管理插件, 可以快速开启或关闭某个插件
+- [彩云小译](https://fanyi.caiyunapp.com/#/) 目前用过的最好用的翻译插件, 相比 Google 翻译更快, 准确度个人感觉也更高, 并且有中英文对照, 在翻译的不好时可以看原文. 缺点是有时候中英文对照会挤在一起, 影响阅读.
+- [Switchy Omega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 切换浏览器的代理, 科学上网必备
+- [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk) 因为我记笔记用的 Notion 所以会有这个网页复制的插件, 不过没有印象笔记的插件好用
+- [SourceGraph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack) 用来浏览 Github 上的项目, 类似的插件有很多, 我倒没对比过
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) 在网页上使用 vim, 可以方便的切换 tab, 上下翻页, 用键盘点击任何一个可点击的元素等. 我常用的:
 
-    * j 向下移动一小段
-    * k 向上移动一小段
-    * d 向下移动半页
-    * u 向上移动半页
-    * J 切换到左边的 tab
-    * K 切换到右边的 tab
-    * gi 聚焦到第一个输入框(用于进入搜索框)
-    * gg 移动到网页最上面
-    * G 移动到网页最下面
-* [Ublock Oring](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 用来屏蔽广告, 非常好用, 并且支持在广告的区域右键可以手动屏幕该处的广告, 下次就不会看到了.
+      - j 向下移动一小段
+      - k 向上移动一小段
+      - d 向下移动半页
+      - u 向上移动半页
+      - J 切换到左边的 tab
+      - K 切换到右边的 tab
+      - gi 聚焦到第一个输入框(用于进入搜索框)
+      - gg 移动到网页最上面
+      - G 移动到网页最下面
+      - / 搜索
+      - n/N 跳转到 下一个/上一个 搜索命中的位置
+
+- [Ublock Oring](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 用来屏蔽广告, 非常好用, 并且支持在广告的区域右键可以手动屏幕该处的广告, 下次就不会看到了.
 
 ## 效率工具
 
@@ -91,21 +94,21 @@
 
 我的 workflow:
 
-* Encode / Decode
-* Epoch Converter. 时间戳转化
-* JetBrains - Open Project. 快速打开 IDEA 项目
-* Kill Process
-* portkiller
-* What's My IP
+- Encode / Decode
+- Epoch Converter. 时间戳转化
+- JetBrains - Open Project. 快速打开 IDEA 项目
+- Kill Process
+- portkiller
+- What's My IP
 
 这些都可以在[这里](http://www.packal.org/workflow-search)搜到
 
 常用操作:
   
-* 快速打开/切换软件. 搜索框输入字母进行搜索, 支持拼音, 并且搜索频率高的会优先, 所以常用的软件一个字符就能搞定了, 例如输入 c, 第一个就是 chrome, 输入 d 第一个就是钉钉
-* 快速打开书签, 输入书签名, 然后选择列表项并打开对应的浏览器书签
-* 搜索/打开文件或文件夹
-* 打开 mac 设置. 比如 keyborad 打开键盘设置
+- 快速打开/切换软件. 搜索框输入字母进行搜索, 支持拼音, 并且搜索频率高的会优先, 所以常用的软件一个字符就能搞定了, 例如输入 c, 第一个就是 chrome, 输入 d 第一个就是钉钉
+- 快速打开书签, 输入书签名, 然后选择列表项并打开对应的浏览器书签
+- 搜索/打开文件或文件夹
+- 打开 mac 设置. 比如 keyborad 打开键盘设置
   
 配合 Alfred + 各类软件本身的快捷键 + vim + vimium,能够做到绝大部分操作都用键盘能够完成.
 
@@ -178,7 +181,7 @@ brew cask是brew的扩展,可以安装 appstroe 的软件
 
 设置命令别名, 简化一些常用的命令, 主要是 git 的别名(不记得从哪复制来的了...)
 
-    -='cd -'
+      -='cd -'
     ...=../..
     ....=../../..
     .....=../../../..
@@ -203,7 +206,7 @@ brew cask是brew的扩展,可以安装 appstroe 的软件
     gb='git branch'
     gba='git branch -a'
     gbd='git branch -d'
-    gbda='git branch --no-color --merged | command grep -vE "^(\*|\s*(master|develop|dev)\s*$)" | command xargs -n 1 git branch -d'
+    gbda='git branch --no-color --merged | command grep -vE "^(\-|\s-(master|develop|dev)\s-$)" | command xargs -n 1 git branch -d'
     gbl='git blame -b -w'
     gbnm='git branch --no-merged'
     gbr='git branch --remote'
@@ -290,7 +293,7 @@ brew cask是brew的扩展,可以安装 appstroe 的软件
     grbi='git rebase -i'
     grbm='git rebase master'
     grbs='git rebase --skip'
-    grep='grep  --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn}'
+    grep='grep    --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn}'
     grh='git reset HEAD'
     grhh='git reset HEAD --hard'
     grmv='git remote rename'
@@ -341,23 +344,23 @@ brew cask是brew的扩展,可以安装 appstroe 的软件
 ### IDEA
 
 Java 开发环境自然用的 Jetbrain 家的 IntelliJ IDEA, 数据库终端用的 IDEA
- 内置的. Code Review 用的 Upsource.
+ 内置的完全够用了. Code Review 用的 Upsource.
 
 我的插件列表:
 
-* [.gitignore](https://github.com/JetBrains/idea-gitignore) 一键生成 .gitignore 文件
-* [Gsonformat](https://plugins.jetbrains.com/plugin/7654-gsonformat/) 通过 JSON 生成对应的POJO
-* [IDE Features Trainer](https://plugins.jetbrains.com/plugin/index?xmlId=GsonFormat) 刚用 IDEA 可以通过这个来学习
-* [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x/) 快捷键不熟悉的小伙伴必备
-* [IDEA Vim](https://plugins.jetbrains.com/plugin/164-ideavim/) 如果想在编辑器里快速移动光标的话, 必备
-* [IdeaVimExtension](https://plugins.jetbrains.com/plugin/index?xmlId=IdeaVimExtension) 解决 vim 切换模式时的输入法切换问题
-* [JRebel](https://plugins.jetbrains.com/plugin/index?xmlId=JRebelPlugin) 热部署插件, 修改代码后不用重启应用
-* [Lombok](https://plugins.jetbrains.com/plugin/index?xmlId=Lombook%20Plugin) 必备
-* [MapStruct Support](https://plugins.jetbrains.com/plugin/index?xmlId=org.mapstruct.intellij) 如果你用了 mapstruct 作为对象复制属性的工具话, 需要这个插件
-* [Maven Helper](https://plugins.jetbrains.com/plugin/index?xmlId=MavenRunHelper)
-* [PlantUML](https://plugins.jetbrains.com/plugin/index?xmlId=PlantUML%20integration) 渲染 PlantUML
-* [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets/) 用颜色区分括号, 方便在嵌套多的时候找到括号的另一个对应
-* [String Manipulation](https://plugins.jetbrains.com/plugin/index?xmlId=String%20Manipulation) 各种 String 的操作, 常用的是命名法切换
+- [.gitignore](https://github.com/JetBrains/idea-gitignore) 一键生成 .gitignore 文件
+- [Gsonformat](https://plugins.jetbrains.com/plugin/7654-gsonformat/) 通过 JSON 生成对应的POJO
+- [IDE Features Trainer](https://plugins.jetbrains.com/plugin/index?xmlId=GsonFormat) 刚用 IDEA 可以通过这个来学习
+- [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x/) 快捷键不熟悉的小伙伴必备
+- [IDEA Vim](https://plugins.jetbrains.com/plugin/164-ideavim/) 如果想在编辑器里快速移动光标的话, 必备
+- [IdeaVimExtension](https://plugins.jetbrains.com/plugin/index?xmlId=IdeaVimExtension) 解决 vim 切换模式时的输入法切换问题
+- [JRebel](https://plugins.jetbrains.com/plugin/index?xmlId=JRebelPlugin) 热部署插件, 修改代码后不用重启应用
+- [Lombok](https://plugins.jetbrains.com/plugin/index?xmlId=Lombook%20Plugin) 必备
+- [MapStruct Support](https://plugins.jetbrains.com/plugin/index?xmlId=org.mapstruct.intellij) 如果你用了 mapstruct 作为对象复制属性的工具话, 需要这个插件
+- [Maven Helper](https://plugins.jetbrains.com/plugin/index?xmlId=MavenRunHelper)
+- [PlantUML](https://plugins.jetbrains.com/plugin/index?xmlId=PlantUML%20integration) 渲染 PlantUML
+- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets/) 用颜色区分括号, 方便在嵌套多的时候找到括号的另一个对应
+- [String Manipulation](https://plugins.jetbrains.com/plugin/index?xmlId=String%20Manipulation) 各种 String 的操作, 常用的是命名法切换
 
 一般来说到插件中心按下载量都看一眼, 能找到挺多好用的插件.
 
